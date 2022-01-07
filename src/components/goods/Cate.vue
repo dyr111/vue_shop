@@ -71,10 +71,7 @@
         </template>
 
         <!-- 操作 -->
-        <template
-          slot="opt"
-          slot-scope="{}"
-        >
+        <template slot="opt">
           <el-button
             type="primary"
             icon="el-icon-edit"
